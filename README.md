@@ -1,6 +1,7 @@
 # LSD Dotfiles
 
-My personal dotfiles used in LSD.
+My personal dotfiles used in [LSD](https://www.lsd.ufcg.edu.br).
+Of course, there's nothing private here, just my configs.
 
 ## TODO
 - [ ] Create the Ansible playbook(s).
